@@ -1,0 +1,333 @@
+[
+  {
+    "id": "561a68fd-8725-414f-bbe6-09805c8a955f",
+    "email": "lara@gmail.com",
+    "password": "$2b$10$moIvkQuh1muLCPWgVBbpN.Z/y7EIFfMepNsZIY5bG2k4sga7IQ.GS",
+    "estante": [
+      {
+        "ISBN": "9786557822364",
+        "capa": "http://books.google.com/books/content?id=cs8tEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "titulo": "Senhor das Moscas (Nova edição)",
+        "autor": [
+          "William Golding"
+        ],
+        "data": "2021-06-07",
+        "comentarios": "livro bom"
+      },
+      {
+        "ISBN": "9788525430892",
+        "capa": "http://books.google.com/books/content?id=0hZhAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "titulo": "Morte na praia",
+        "autor": [
+          "Agatha Christie"
+        ],
+        "data": "2013-12-16",
+        "comentarios": "gostei"
+      },
+      {
+        "ISBN": "9786556402758",
+        "capa": "http://books.google.com/books/content?id=8PIuEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "titulo": "Os irmãos Karamázov",
+        "autor": [
+          "Fiódor Dostoiévski"
+        ],
+        "data": "2021-05-14",
+        "comentarios": ""
+      },
+      {
+        "ISBN": "9788501116550",
+        "capa": "http://books.google.com/books/content?id=MAqQDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "titulo": "Cem anos de solidão",
+        "autor": [
+          "Gabriel García Márquez"
+        ],
+        "data": "2019-04-03",
+        "comentarios": ""
+      }
+    ]
+  },
+  {
+    "id": "23f7855e-cbbe-482a-9723-6ec82cab91e4",
+    "email": "venildo@gmail.com",
+    "password": "$2b$10$XVIKMPrGaSnGanbBRGI4y.xbnwMPPbkCRCrE9RCa40iNWTfwPKdYe",
+    "estante": [
+      {
+        "ISBN": "9786555113976",
+        "capa": "http://books.google.com/books/content?id=dnWVEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "titulo": "A Queda de Númenor",
+        "autor": [
+          "J.R.R Tolkien"
+        ],
+        "data": "2022-11-10",
+        "comentarios": "",
+        "categoria": "Lendo"
+      },
+      {
+        "ISBN": "9788595084148",
+        "capa": "http://books.google.com/books/content?id=2yJnDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "titulo": "A Queda de Gondolin",
+        "autor": [
+          "J.R.R. Tolkien"
+        ],
+        "data": "2018-08-30",
+        "comentarios": "Aqui o usuário insere os comentários a respeito da leitura do livro",
+        "categoria": "Lidos"
+      },
+      {
+        "ISBN": "9789895641291",
+        "capa": "http://books.google.com/books/content?id=NZZWEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "titulo": "Sapiens: História Breve da Humanidade",
+        "autor": [
+          "Yuval Noah Harari"
+        ],
+        "data": "2013-11-01",
+        "comentarios": "",
+        "categoria": "Lidos"
+      },
+      {
+        "ISBN": "9788543807829",
+        "capa": "http://books.google.com/books/content?id=MGAlDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "titulo": "Homo Deus",
+        "autor": [
+          "Yuval Noah Harari"
+        ],
+        "data": "2016-11-11",
+        "comentarios": "",
+        "categoria": "Quero Ler"
+      },
+      {
+        "ISBN": "9789895830008",
+        "capa": "http://books.google.com/books/content?id=aoMHEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "titulo": "Nexus",
+        "autor": [
+          "Yuval Noah Harari"
+        ],
+        "data": "2024-09-23",
+        "comentarios": "",
+        "categoria": "Quero Ler"
+      }
+    ]
+  },
+  {
+    "id": "52ce1e2f-ad86-42aa-ae9d-44de2953e457",
+    "email": "nathaliaafss@gmail.com",
+    "password": "$2b$10$dHA1SQrBSdzfhJh.6aJfYuaN1Smo0fz/XX.vlw7bpeK5s23I/5eDO",
+    "estante": [
+      {
+        "ISBN": "9781312074569",
+        "capa": "http://books.google.com/books/content?id=BqydBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "titulo": "It's a knowing daily journal VII",
+        "autor": [
+          "Author Melissa White"
+        ],
+        "data": "2014-04-06",
+        "comentarios": "testeeee",
+        "categoria": "Lidos"
+      },
+      {
+        "ISBN": "9780316041638",
+        "capa": "http://books.google.com/books/content?id=WbZiAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "titulo": "Some Like It Hot",
+        "autor": [
+          "Zoey Dean"
+        ],
+        "data": "2008-08-01",
+        "comentarios": "testetestetestetesteteste",
+        "categoria": "Lidos"
+      },
+      {
+        "ISBN": "9781460295717",
+        "capa": "http://books.google.com/books/content?id=aO2jDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "titulo": "Why Not Have It All",
+        "autor": [
+          "Mrs. Bonita Andrea Shelby"
+        ],
+        "data": "2017-04-03",
+        "comentarios": "",
+        "categoria": "Lendo"
+      }
+    ]
+  },
+  {
+    "id": "f086ff35-2966-4212-a1d8-301fc709effe",
+    "email": "naty@gmail.com",
+    "password": "$2b$10$GPlOukmohorv2Ihh2B2/Z.XfPa3FFVVyNZeZm5hkJnkL8mzWx2p6K",
+    "estante": [
+      {
+        "ISBN": "9781460295717",
+        "capa": "http://books.google.com/books/content?id=aO2jDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "titulo": "Why Not Have It All",
+        "autor": [
+          "Mrs. Bonita Andrea Shelby"
+        ],
+        "data": "2017-04-03",
+        "comentarios": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "categoria": "Lidos"
+      },
+      {
+        "ISBN": "9788588781610",
+        "capa": "http://books.google.com/books/content?id=9NZBCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "titulo": "Orgulho e Preconceito: Pride and Prejudice",
+        "autor": [
+          "Jane Austen"
+        ],
+        "data": "2012-01-01",
+        "comentarios": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "categoria": "Lidos"
+      },
+      {
+        "ISBN": "9780190670139",
+        "capa": "http://books.google.com/books/content?id=dixdDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "titulo": "Could it be Adult ADHD?",
+        "autor": [
+          "Jan Willer"
+        ],
+        "data": "2017-03-06",
+        "comentarios": "",
+        "categoria": "Lendo"
+      },
+      {
+        "ISBN": "9781787289451",
+        "capa": "http://books.google.com/books/content?id=5JlGDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "titulo": "Emotional Intelligence for IT Professionals",
+        "autor": [
+          "Emilia M. Ludovino"
+        ],
+        "data": "2017-09-26",
+        "comentarios": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "categoria": "Quero Ler"
+      },
+      {
+        "ISBN": "9781488028618",
+        "capa": "http://books.google.com/books/content?id=un2nDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "titulo": "Baby, It's Christmas & Hold Me, Cowboy",
+        "autor": [
+          "Susan Mallery",
+          "Maisey Yates"
+        ],
+        "data": "2017-10-31",
+        "comentarios": "",
+        "categoria": "Lendo"
+      },
+      {
+        "ISBN": "9781427640093",
+        "capa": "http://books.google.com/books/content?id=y25WAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "titulo": "How Aliens Do It",
+        "autor": [
+          "Judith Shimkus"
+        ],
+        "data": "2009",
+        "comentarios": "",
+        "categoria": "Lidos"
+      },
+      {
+        "ISBN": "9781491839362",
+        "capa": "http://books.google.com/books/content?id=jYhRAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "titulo": "I Know He is Not Going to Make It",
+        "autor": [
+          "Carolyn Scanze Giglio"
+        ],
+        "data": "2013-11-29",
+        "comentarios": "",
+        "categoria": "Lidos"
+      }
+    ]
+  },
+  {
+    "id": "4b9d51ad-2e48-4e31-b232-dc821b8fe44f",
+    "email": "danilo@gmail.com",
+    "password": "$2b$10$/6jinxJXoeThEk9OtPusVuDU8VvBvKYksuRPAyP7J3b1d4QontC8q",
+    "estante": [
+      {
+        "ISBN": "9780007525539",
+        "capa": "http://books.google.com/books/content?id=dVeengEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "titulo": "The Hobbit",
+        "autor": [
+          "J. R. R. Tolkien"
+        ],
+        "data": "2013-11",
+        "comentarios": "muito bom slk real",
+        "categoria": "Lidos"
+      },
+      {
+        "ISBN": "9788534944168",
+        "capa": "http://books.google.com/books/content?id=RxG6DAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "titulo": "O Pequeno Príncipe",
+        "autor": [
+          "Antoine Saint-Exupéry"
+        ],
+        "data": "2016-07-01",
+        "comentarios": "",
+        "categoria": "Lendo"
+      },
+      {
+        "ISBN": "9786561332491",
+        "capa": "http://books.google.com/books/content?id=0CgREQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "titulo": "Memórias Póstumas de Brás Cubas",
+        "autor": [
+          "Machado de Assis"
+        ],
+        "data": "2024-06-28",
+        "comentarios": "",
+        "categoria": "Quero Ler"
+      },
+      {
+        "ISBN": "9788578651244",
+        "capa": "http://books.google.com/books/content?id=jgYkDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "titulo": "Dom Casmurro",
+        "autor": [
+          "Machado de Assis"
+        ],
+        "data": "2017-05-05",
+        "comentarios": "",
+        "categoria": "Lendo"
+      },
+      {
+        "ISBN": "9780785835530",
+        "capa": "http://books.google.com/books/content?id=2ZNADwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "titulo": "1001 Battles That Changed the Course of History",
+        "autor": [
+          "R. G. Grant"
+        ],
+        "data": "2017-10-24",
+        "comentarios": "",
+        "categoria": "Lidos"
+      },
+      {
+        "ISBN": "9786556748030",
+        "capa": "http://books.google.com/books/content?id=b9UnEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "titulo": "O diário de Anne Frank",
+        "autor": [
+          "Anne Frank"
+        ],
+        "data": "2021-04-07",
+        "comentarios": "",
+        "categoria": "Quero Ler"
+      }
+    ]
+  },
+  {
+    "id": "226dec08-0dd1-4047-8c4f-95cb4cffb4bf",
+    "email": "teste@teste.com",
+    "password": "$2b$10$dn6XEcrqyTFa3KiYQ0kyoOib1zjjqZYzhWj763mJ2mk4sUAKnLwv2",
+    "estante": []
+  },
+  {
+    "id": "ac86015e-09a9-448c-be89-2e7dedc9eae1",
+    "email": "phyll@gmail.com",
+    "password": "$2b$10$dOsnbFOlPMuCFetp0R.V6e7E4vORk9t0s1x6N6opFjBqzO8oJvMjm",
+    "estante": [
+      {
+        "ISBN": "9786555600155",
+        "capa": "http://books.google.com/books/content?id=xxLmDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "titulo": "Coraline",
+        "autor": [
+          "Neil Gaiman"
+        ],
+        "data": "2020-06-19",
+        "comentarios": "assustador slk tio",
+        "categoria": "Lendo"
+      }
+    ]
+  }
+]
